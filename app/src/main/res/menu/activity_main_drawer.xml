@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+    </group>
+    <item android:title="Biblical">
+        <menu>
+            <item
+                android:id="@+id/nav_bquizone"
+                android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+                android:title="Quiz 1" />
+            <item
+                android:id="@+id/nav_bquiztwo"
+                android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+                android:title="Quiz 2" />
+        </menu>
+    </item>
+    <item android:title="Astronomy">
+        <menu>
+            <item
+                android:id="@+id/nav_aquizone"
+                android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+                android:title="Quiz 1" />
+            <item
+                android:id="@+id/nav_aquiztwo"
+                android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+                android:title="Quiz 2" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_biblical_quiz_one">BiblicalQuizOne</string>
+    <string name="title_activity_biblical_quiz_two">BiblicalQuizTwo</string>
+    <string name="title_activity_astronomy_quiz_one">AstronomyQuizOne</string>
+    <string name="title_activity_astronomy_quiz_two">AstronomyQuizTwo</string>
+    <string name="title_activity_quiz_activity">QuizActivity</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+    <string name="str_gotohome">Go to Home</string>
+    <string name="str_bible1">BIBLE QUIZ 1</string>
+    <string name="str_bible2">BIBLE QUIZ 2</string>
+    <string name="str_astro1">ASTRONOMY QUIZ 1</string>
+    <string name="str_astro2">ASTRONOMY QUIZ 2</string>
+    <string name="your_string">Everything you want to display write it here</string>
+
+</resources>
